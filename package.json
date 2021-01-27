@@ -8,7 +8,8 @@
 		"nodemon": "^2.0.7"
 	},
 	"dependencies": {
-		"@slack/bolt": "^3.1.1"
+		"@slack/bolt": "^3.1.1",
+		"axios": "^0.21.1"
 	},
 	"scripts": {
 		"start": "nodemon ./src/index.ts"
